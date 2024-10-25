@@ -5,3 +5,7 @@ This file contains the main implementation of the checkout lane simulation. It m
 **Key Functions**:
 - Lane management: Open/close lanes based on customer traffic.
 - Customer management: Generate customers and assign them to appropriate lanes.
+
+**References**:
+
+Completed by Marco Gizzi and Hanzla Ilyas
